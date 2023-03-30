@@ -2,3 +2,10 @@
 
 # di-bot
 UI automation robot based on OpenCV vision.
+
+Dependencies
+------------
+requests
+opencv-python
+PyAutoGUI
+PyDirectInput
