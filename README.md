@@ -3,8 +3,7 @@
 # diablo-immortal-bot
 UI automation robot based on OpenCV vision.
 
-Dependencies
-------------
+## Requirements
 - requests
 - opencv-python
 - PyAutoGUI
